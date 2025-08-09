@@ -103,12 +103,38 @@
 
 
 
+
+
+
+
+
 //  Q #14
 // var highlight =  document.querySelectorAll(".highlight");
 
 // function colorChange(highlight){
 // highlight.style.color = "orange"    ------ INCOMPLETE
 // } 
+
+
+// // Q #15
+// // var checkbox = document.querySelector("#agree");
+// // var result = document.querySelector("#result");
+// // function checkAgreement() {
+// //     if (checkbox.checked) {
+// //         result.innerHTML = "Agreed"
+// //     } else {
+// //         result.innerHTML = "Not Agreed"
+// //     }
+// }
+
+
+// Q #16
+// var dropdown = document.querySelector("#options");
+// var result = document.querySelector("#selectedValue");
+
+// function display() {
+//     result.innerHTML = dropdown.value
+// }
 
 
 // Q # 18
